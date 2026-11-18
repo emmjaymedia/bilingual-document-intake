@@ -1,0 +1,2 @@
+{"language": "en", "correct_fields": 4, "field_count": 4, "ocr_and_parse_ms": 199.3, "actual": {"invoice_number": "INV-204", "subtotal": "120.00", "tax": "6.00", "total": "126.00"}}
+{"language": "ar", "correct_fields": 4, "field_count": 4, "ocr_and_parse_ms": 251.9, "actual": {"invoice_number": "205", "subtotal": "120.00", "tax": "6.00", "total": "126.00"}}
